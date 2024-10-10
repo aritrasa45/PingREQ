@@ -217,6 +217,7 @@ def get_ping():
                                            
 
         except KeyboardInterrupt:
+            avg_counter()
             show_output(host)
             sys.exit()
 
