@@ -25,9 +25,7 @@ of requests & argparse..To know more about the features type -h with respect to 
 <pre>git clone https://github.com/aritrasa45/PingREQ.git</pre>
 
 <pre>cd PingREQ </pre>
-<br>
 
-<pre>cd Tool</pre>
  <br>
  <pre>python main.py [url] [--optional_arguments] </pre>
 
